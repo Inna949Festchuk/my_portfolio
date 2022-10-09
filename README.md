@@ -1,4 +1,4 @@
-# ![ ](https://drive.google.com/file/d/1ki942plp489gypENigUZuNDqpR5JTiWC/view)
+# ![ ](https://avt-13.foto.mail.ru/mail/innabori/_avatar180?)
 
 # Инна ФЕЩУК
 ### Должность: Fullstack-разработчик на Python
