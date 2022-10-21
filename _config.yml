@@ -3,3 +3,4 @@ description: Portfolio of a good programmer.
 show_downloads: true
 google_analytics:
 theme: jekyll-theme-cayman
+code-text-color: #577482
