@@ -28,6 +28,7 @@
 ## Достижения 
 ###  [Достижения по версии ресурса "Нетология"](https://netology.ru/shared/achievements/61b1cc11-293b-4d5e-90fc-6cee1c44ea7e)
 #### Отсутствие отрицательных отзывов за этот период
-#### Git — система контроля версий (8 сентября — 22 сентября 2022 года.) ([Свидетельство об обучении](https://netology.ru/sharing/a0d8256e9f3b1184de8c208d56db6063?utm_source=social&utm_campaign=achievements))
-#### Основы языка программирования Python (18 августа — 10 ноября 2022 года.) ([Свидетельство об обучении](https://netology.ru/sharing/68e445b810a54c0c98eedb81151ff57f?utm_source=social&utm_campaign=achievements))
+#### Git — система контроля версий (8 сентября — 22 сентября 2022 года) ([Свидетельство об обучении](https://netology.ru/sharing/a0d8256e9f3b1184de8c208d56db6063?utm_source=social&utm_campaign=achievements))
+#### Основы языка программирования Python (18 августа — 10 ноября 2022 года) ([Свидетельство об обучении](https://netology.ru/sharing/68e445b810a54c0c98eedb81151ff57f?utm_source=social&utm_campaign=achievements))
+#### Базы данных для python-разработчиков (23 января — 22 февраля года) ([Свидетельство об обучении](https://netology.ru/backend/api/user/programs/35121/pdf_certificate)
 #### Языки: английский, польский 
