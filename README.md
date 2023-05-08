@@ -28,11 +28,13 @@
 ## Достижения
 ###  [Достижения по версии образовательного ресурса "Нетология"](https://netology.ru/shared/achievements/61b1cc11-293b-4d5e-90fc-6cee1c44ea7e)
 #### Более подробно:
-#### - Git — система контроля версий (8 сентября — 22 сентября 2022 года) ([Свидетельство об обучении](https://netology.ru/sharing/a0d8256e9f3b1184de8c208d56db6063?utm_source=social&utm_campaign=achievements))
-#### - Основы языка программирования Python (18 августа — 10 ноября 2022 года) ([Свидетельство об обучении](https://netology.ru/sharing/68e445b810a54c0c98eedb81151ff57f?utm_source=social&utm_campaign=achievements))
-#### - Базы данных для python-разработчиков (23 января — 22 февраля года) ([Свидетельство об обучении](https://netology.ru/backend/api/user/programs/35121/pdf_certificate))
-## Участие в хакатонах:
+- Git — система контроля версий (8 сентября — 22 сентября 2022 года) ([Свидетельство об обучении](https://netology.ru/sharing/a0d8256e9f3b1184de8c208d56db6063?utm_source=social&utm_campaign=achievements))
+- Основы языка программирования Python (18 августа — 10 ноября 2022 года) ([Свидетельство об обучении](https://netology.ru/sharing/68e445b810a54c0c98eedb81151ff57f?utm_source=social&utm_campaign=achievements))
+- Базы данных для python-разработчиков (23 января — 22 февраля года) ([Свидетельство об обучении](https://netology.ru/backend/api/user/programs/35121/pdf_certificate))
+## Участие в хакатонах
 1. *Хакатон по кибериммунной разработке*
 ![Хакатон по кибериммунной разработке](https://contestfiles.storage.yandexcloud.net/companies/86a6a31f4467a95b9020dad414fbf7e0/contests/851/F9GqscQ8_1679312078.webp)
 [Свидетельство об обучении](https://drive.google.com/file/d/1eNYjA694R3zXCdBELCcg4HJRoOD2__Po/view?usp=share_link)
-#### Языки: английский, польский 
+## Языки 
+- английский
+- польский 
