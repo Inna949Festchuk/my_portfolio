@@ -33,9 +33,10 @@
 - Базы данных для python-разработчиков (23 января — 22 февраля года 2023 года) ([Свидетельство об обучении](https://netology.ru/backend/api/user/programs/35121/pdf_certificate))
 
 ## Участие в хакатонах
-1. *Хакатон по кибериммунной разработке*
+- Хакатон по кибериммунной разработке
 ![Хакатон по кибериммунной разработке](https://contestfiles.storage.yandexcloud.net/companies/86a6a31f4467a95b9020dad414fbf7e0/contests/851/F9GqscQ8_1679312078.webp)
 [Свидетельство об обучении](https://drive.google.com/file/d/1eNYjA694R3zXCdBELCcg4HJRoOD2__Po/view?usp=share_link)
+
 ## Языки 
 - английский
 - польский 
