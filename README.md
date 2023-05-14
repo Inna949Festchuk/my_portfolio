@@ -31,8 +31,7 @@
 #### Более подробно:
 - Git — система контроля версий (8 сентября — 22 сентября 2022 года) ([Свидетельство об обучении](https://netology.ru/sharing/a0d8256e9f3b1184de8c208d56db6063?utm_source=social&utm_campaign=achievements))
 - Основы языка программирования Python (18 августа — 10 ноября 2022 года) ([Свидетельство об обучении](https://netology.ru/sharing/68e445b810a54c0c98eedb81151ff57f?utm_source=social&utm_campaign=achievements))
-- Курсовой проект (*зачет*)
->[**Программа для резервного копирования фотографий с профиля(аватарок) пользователя vk в облачное хранилище Яндекс.Диск.**](https://github.com/Inna949Festchuk/Project)
+- Курсовой проект ([Программа для резервного копирования фотографий с профиля(аватарок) пользователя vk в облачное хранилище Яндекс.Диск](https://github.com/Inna949Festchuk/Project))
 - Базы данных для python-разработчиков (23 января — 22 февраля года 2023 года) ([Свидетельство об обучении](https://netology.ru/backend/api/user/programs/35121/pdf_certificate))
 
 ## [Участие в хакатонах](https://github.com/Inna949Festchuk/Hackathons)
