@@ -40,6 +40,8 @@
 [Свидетельство об обучении](https://drive.google.com/file/d/1eNYjA694R3zXCdBELCcg4HJRoOD2__Po/view?usp=share_link)
 - Хакатон Aeroclub Challenge 2023
 ![Хакатон Aeroclub Challenge 2023](https://contestfiles.storage.yandexcloud.net/companies/86a6a31f4467a95b9020dad414fbf7e0/contests/873/4LXsMlRp_1681913207.webp)
+- Хакатон - Sovcombank Team Challenge 2023
+![- Sovcombank Team Challenge 2023](https://contestfiles.storage.yandexcloud.net/companies/86a6a31f4467a95b9020dad414fbf7e0/contests/871/8pu1xjeH_1681210748.webp)
 
 ## Языки 
 - английский
