@@ -35,13 +35,16 @@
 - Базы данных для python-разработчиков (23 января — 22 февраля года 2023 года) ([Свидетельство об обучении](https://netology.ru/backend/api/user/programs/35121/pdf_certificate))
 
 ## [Участие в хакатонах](https://github.com/Inna949Festchuk/Hackathons)
-- Хакатон по кибериммунной разработке
+### **Хакатон по кибериммунной разработке**
 ![Хакатон по кибериммунной разработке](https://contestfiles.storage.yandexcloud.net/companies/86a6a31f4467a95b9020dad414fbf7e0/contests/851/F9GqscQ8_1679312078.webp)
-[Свидетельство об обучении](https://drive.google.com/file/d/1eNYjA694R3zXCdBELCcg4HJRoOD2__Po/view?usp=share_link)
-- Хакатон Aeroclub Challenge 2023
+- [Свидетельство об обучении](https://drive.google.com/file/d/1eNYjA694R3zXCdBELCcg4HJRoOD2__Po/view?usp=share_link)
+- [Сертификат об участии](https://codenrock.com/users/27225/certificates/75)
+### **Хакатон Aeroclub Challenge 2023**
 ![Хакатон Aeroclub Challenge 2023](https://contestfiles.storage.yandexcloud.net/companies/86a6a31f4467a95b9020dad414fbf7e0/contests/873/4LXsMlRp_1681913207.webp)
-- Хакатон - Sovcombank Team Challenge 2023
-![- Sovcombank Team Challenge 2023](https://contestfiles.storage.yandexcloud.net/companies/86a6a31f4467a95b9020dad414fbf7e0/contests/871/8pu1xjeH_1681210748.webp)
+### **Хакатон - Sovcombank Team Challenge 2023**
+![Sovcombank Team Challenge 2023](https://contestfiles.storage.yandexcloud.net/companies/86a6a31f4467a95b9020dad414fbf7e0/contests/871/8pu1xjeH_1681210748.webp)
+### **Хакатон - Лидеры цифровой трансформации**
+![Lider_of_Digital_Transformation](https://static.tildacdn.com/tild3034-6465-4635-a430-386339356661/__1080_1080___.png)
 
 ## Языки 
 - английский
