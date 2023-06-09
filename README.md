@@ -44,7 +44,7 @@
 #### **Хакатон Aeroclub Challenge 2023**
 ![Хакатон Aeroclub Challenge 2023](https://contestfiles.storage.yandexcloud.net/companies/86a6a31f4467a95b9020dad414fbf7e0/contests/873/4LXsMlRp_1681913207.webp)
 - [Сертификат об участии](https://codenrock.com/users/27225/certificates/90)
-- *Спасибо ребятам за промокод в Додо-пица - это мои первые деньги на программировании!!! :D
+- *Спасибо ребятам за промокод в Додо-пица - это мои первые деньги на программировании!!! :D*
 
 #### **Хакатон - Sovcombank Team Challenge 2023**
 ![Sovcombank Team Challenge 2023](https://contestfiles.storage.yandexcloud.net/companies/86a6a31f4467a95b9020dad414fbf7e0/contests/871/8pu1xjeH_1681210748.webp)
