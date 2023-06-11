@@ -52,6 +52,7 @@
 
 #### **Хакатон - Лидеры цифровой трансформации**
 ![Lider_of_Digital_Transformation](https://static.tildacdn.com/tild3034-6465-4635-a430-386339356661/__1080_1080___.png)
+- [Сертификат об участии](https://drive.google.com/file/d/1W4gjCyyKzIYH6UyXicnWCIG-JnKxMglM/view?usp=drivesdk)
 
 ## Языки 
 - английский
