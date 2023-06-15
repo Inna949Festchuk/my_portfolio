@@ -42,7 +42,7 @@
 - [Свидетельство об обучении](https://drive.google.com/file/d/1eNYjA694R3zXCdBELCcg4HJRoOD2__Po/view?usp=share_link)
 - [Сертификат об участии](https://codenrock.com/users/27225/certificates/75)
 
-#### **Хакатон Aeroclub Challenge 2023**
+#### **Хакатон Aeroclub Challenge 2023 (39 место из 42)**
 ![Хакатон Aeroclub Challenge 2023](https://contestfiles.storage.yandexcloud.net/companies/86a6a31f4467a95b9020dad414fbf7e0/contests/873/4LXsMlRp_1681913207.webp)
 - [Сертификат об участии](https://codenrock.com/users/27225/certificates/90)
 - *Спасибо ребятам за промокод в Додо-пица - это мои первые деньги на программировании!!! :D*
