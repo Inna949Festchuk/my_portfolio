@@ -25,7 +25,8 @@
 ## Мои скилы (технический стек)
 - #### Git, Github, Gitlab;
 - #### Python, ООП, регулярки, парсинг сайтов, взаимодействие с сайтами через API по протоколу RESTfull, написание тестов;
-- #### Базы данных, PostgreSQL, написание запросов на SQL, взаимодействие Python с БД через драйвер psycopg2, ORM (SQLAlchemy);
+- #### Базы данных, PostgreSQL, написание запросов на SQL, взаимодействие Python с БД через драйвер psycopg2, ORM (SQLAlchemy); 
+- #### Django, Django REST (DRF), геоприложения и геосервисы GeoDgango + postgresql + postgis.
 
 ## Достижения
 ####  [Достижения по версии образовательного ресурса "Нетология"](https://netology.ru/shared/achievements/61b1cc11-293b-4d5e-90fc-6cee1c44ea7e)
@@ -35,6 +36,7 @@
 - #### Курсовой проект ([Программа для резервного копирования фотографий с профиля(аватарок) пользователя vk в облачное хранилище Яндекс.Диск](https://github.com/Inna949Festchuk/Project))
 - #### Базы данных для python-разработчиков (23 января — 22 февраля 2023 года) ([Свидетельство об обучении](https://netology.ru/backend/api/user/programs/35121/pdf_certificate))
 - #### Профессиональная работа с Python (28 февраля — 12 апреля 2023 года) ([Свидетельство об обучении](https://netology.ru/sharing/af21cc339137e340f0a2275b4bd43fa5?utm_source=social&utm_campaign=achievements))
+- #### Django (планируется получить сертификат в ближайшие недели)
 
 ## [Участие в хакатонах](https://github.com/Inna949Festchuk/Hackathons)
 #### **Хакатон по кибериммунной разработке**
