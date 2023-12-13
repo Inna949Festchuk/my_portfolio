@@ -31,11 +31,12 @@
 ## Достижения
 ####  [Достижения по версии образовательного ресурса "Нетология"](https://netology.ru/shared/achievements/61b1cc11-293b-4d5e-90fc-6cee1c44ea7e)
 #### Более подробно:
-- #### Git — система контроля версий (8 сентября — 22 сентября 2022 года) ([Свидетельство об обучении](https://netology.ru/sharing/a0d8256e9f3b1184de8c208d56db6063?utm_source=social&utm_campaign=achievements))
-- #### Основы языка программирования Python (18 августа — 10 ноября 2022 года) ([Свидетельство об обучении](https://netology.ru/sharing/68e445b810a54c0c98eedb81151ff57f?utm_source=social&utm_campaign=achievements))
+- #### Git — система контроля версий ([Свидетельство об обучении](https://netology.ru/sharing/6b60f0fdbf88e90b6477b5f1f5a90f64?utm_source=social&utm_campaign=certificate_lms))
+- #### Основы языка программирования Python ([Свидетельство об обучении](https://netology.ru/sharing/7264be489d0121e39e75c8f044f719af?utm_source=social&utm_campaign=certificate_lms))
+- #### ООП и работа с API ([Свидетельство об обучении](https://netology.ru/sharing/89ff51c8126bf326383bead2df255591?utm_source=social&utm_campaign=certificate_lms ))
 - #### Курсовой проект ([Программа для резервного копирования фотографий с профиля(аватарок) пользователя vk в облачное хранилище Яндекс.Диск](https://github.com/Inna949Festchuk/Project))
-- #### Базы данных для python-разработчиков (23 января — 22 февраля 2023 года) ([Свидетельство об обучении](https://netology.ru/backend/api/user/programs/35121/pdf_certificate))
-- #### Профессиональная работа с Python (28 февраля — 12 апреля 2023 года) ([Свидетельство об обучении](https://netology.ru/sharing/af21cc339137e340f0a2275b4bd43fa5?utm_source=social&utm_campaign=achievements))
+- #### Базы данных для python-разработчиков ([Свидетельство об обучении](https://netology.ru/sharing/178a2c7a3b253c26953a5b118386655f?utm_source=social&utm_campaign=certificate_lms))
+- #### Профессиональная работа с Python ([Свидетельство об обучении](https://netology.ru/sharing/01e080c53e7c0d831c5de38a2a217df5?utm_source=social&utm_campaign=certificate_lms))
 - #### Django (планируется получить сертификат в ближайшие недели)
 
 ## [Участие в хакатонах](https://github.com/Inna949Festchuk/Hackathons)
