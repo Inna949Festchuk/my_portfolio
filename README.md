@@ -37,7 +37,7 @@
 - #### Курсовой проект ([Программа для резервного копирования фотографий с профиля(аватарок) пользователя vk в облачное хранилище Яндекс.Диск](https://github.com/Inna949Festchuk/Project))
 - #### Базы данных для python-разработчиков ([Свидетельство об обучении](https://netology.ru/sharing/178a2c7a3b253c26953a5b118386655f?utm_source=social&utm_campaign=certificate_lms))
 - #### Профессиональная работа с Python ([Свидетельство об обучении](https://netology.ru/sharing/01e080c53e7c0d831c5de38a2a217df5?utm_source=social&utm_campaign=certificate_lms))
-- #### Django ([Свидетельство об обучении](https://netology.ru/sharing/1862941aa91451adcef7c1b267c00f4e?utm_source=social&utm_campaign=certificate_lms))
+- #### Django: создание backend-приложений ([Свидетельство об обучении](https://netology.ru/sharing/1862941aa91451adcef7c1b267c00f4e?utm_source=social&utm_campaign=certificate_lms))
 
 ## [Участие в хакатонах](https://github.com/Inna949Festchuk/Hackathons)
 #### **Хакатон по кибериммунной разработке**
