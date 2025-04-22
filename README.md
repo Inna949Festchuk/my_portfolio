@@ -55,6 +55,6 @@
 - #### Автоматизация тестирования и развертывания проектов CI/CD;
 - #### Контейнеризация (в том числе создание кастомных образов на основе Dockerfiles) и оркестрация: Docker и docker-compose;
 - #### Репозиторий DockerHub;
-- #### Брокеры задач Redis, RabbitMQ и Celery (Интеграция с Flask, FastAPI, Django)
+- #### Celery и брокеры задач Redis, RabbitMQ (Интеграция с Flask, FastAPI, Django)
 
 ### [Моя дипломная работа](https://github.com/Inna949Festchuk/python-final-diplom/tree/master)
